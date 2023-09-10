@@ -1,0 +1,47 @@
+{
+  "Actions": [
+    {
+      "UUID": "com.saltchicken.zeromq.showimage",
+      "Icon": "assets/showimage/bitmap",
+      "Name": "Show Image",
+      "States": [
+        {
+          "Image": "assets/showimage/bitmap"
+        }
+      ],
+      "PropertyInspectorPath": "property_inspector/showimage_pi.html",
+      "SupportedInMultiActions": true,
+      "Controllers": [
+        "Keypad",
+        "Encoder"
+      ],
+      "Tooltip": "Show an image",
+      "UserTitleEnabled": true
+    }
+  ],
+  "Author": "John Eicher",
+  "CodePath": "run.sh",
+  "Description": "Send ZeroMQ messages",
+  "Icon": "assets/plugin_icon",
+  "Name": "StreamdeckZeroMQ",
+  "Version": "1.1.2",
+  "SDKVersion": 2,
+  "OS": [
+    {
+      "Platform": "mac",
+      "MinimumVersion": "10.14"
+    },
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "Software": {
+    "MinimumVersion": "6"
+  },
+  "Category": "ZeroMQ",
+  "CategoryIcon": "assets/category_icon",
+  "CodePathMac": "run.sh",
+  "CodePathWin": "run.bat",
+  "URL": "https://github.com/saltchicken/streamdeck-zeromq-plugin"
+}

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="671.79089"
+   height="659.6283"
+   viewBox="0 0 671.79089 659.6283"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="bitmap.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   sodipodi:docname="bitmap.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1">
+    <rect
+       x="752.78003"
+       y="833.55042"
+       width="1305.2495"
+       height="798.01147"
+       id="rect2" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-30.118471,-41.412312)">
+    <rect
+       style="fill:#000000;stroke-width:1.41841"
+       id="rect1"
+       width="671.79089"
+       height="659.6283"
+       x="30.118471"
+       y="41.412312" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1"
+       style="font-weight:bold;font-size:377.953px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;white-space:pre;shape-inside:url(#rect2);fill:#ffffff"><tspan
+         x="907.77233"
+         y="1164.2597"
+         id="tspan1">A1111</tspan></text>
+  </g>
+</svg>
