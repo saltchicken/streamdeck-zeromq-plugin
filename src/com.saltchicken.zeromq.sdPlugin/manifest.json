@@ -17,7 +17,26 @@
       ],
       "Tooltip": "Show an image",
       "UserTitleEnabled": true
+    },
+    {
+      "UUID": "com.saltchicken.zeromq.saveimage",
+      "Icon": "assets/saveimage/bitmap",
+      "Name": "Save Image",
+      "States": [
+        {
+          "Image": "assets/saveimage/bitmap"
+        }
+      ],
+      "PropertyInspectorPath": "property_inspector/saveimage_pi.html",
+      "SupportedInMultiActions": true,
+      "Controllers": [
+        "Keypad",
+        "Encoder"
+      ],
+      "Tooltip": "Save an image",
+      "UserTitleEnabled": true
     }
+
   ],
   "Author": "John Eicher",
   "CodePath": "run.sh",
